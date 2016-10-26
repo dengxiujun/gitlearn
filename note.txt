@@ -1,2 +1,3 @@
 create note.txt.
 test push remote order.
+test git fetch remote.
